@@ -1,3 +1,3 @@
-# Sample maths
+Sample maths
 
 2 + 2 = 4
